@@ -1,6 +1,6 @@
-package app;
+package modulo02.atividades01.app;
 
-import model.ContaBancaria;
+import modulo02.atividades01.model.ContaBancaria;
 
 public class ContaBancariaapp {
 

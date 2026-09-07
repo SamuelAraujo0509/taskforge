@@ -1,6 +1,6 @@
-package app;
+package modulo02.atividades01.app;
 
-import model.Livro;
+import modulo02.atividades01.model.Livro;
 
 public class Livroapp {
 

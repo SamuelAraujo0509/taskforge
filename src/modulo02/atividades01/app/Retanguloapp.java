@@ -1,6 +1,6 @@
-package app;
+package modulo02.atividades01.app;
 
-import model.Retangulo;
+import modulo02.atividades01.model.Retangulo;
 
 public class Retanguloapp {
 

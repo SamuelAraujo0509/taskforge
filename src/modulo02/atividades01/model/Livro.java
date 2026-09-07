@@ -1,4 +1,4 @@
-package model;
+package modulo02.atividades01.model;
 
 public class Livro {
 

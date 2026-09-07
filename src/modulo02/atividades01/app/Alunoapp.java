@@ -1,6 +1,6 @@
-package app;
+package modulo02.atividades01.app;
 
-import model.Aluno;
+import modulo02.atividades01.model.Aluno;
 
 public class Alunoapp {
 
