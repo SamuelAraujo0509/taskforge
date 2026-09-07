@@ -1,6 +1,6 @@
 # TaskForge
 
-Projeto do curso **Do Código ao Contrato**. Uma API de tarefas construída aula a aula, começando por um app de console e virando uma API completa que roda na internet.
+Projeto do curso **Do Código ao Contrato**. Uma API de tarefas construída aula a aula, começando por um modulo02.atividades01.app de console e virando uma API completa que roda na internet.
 
 Este repositório é o seu. Você vai fazer as entregas de cada aula aqui, por Pull Request.
 
