@@ -2,23 +2,23 @@ package br.com.docodigoaocontrato.taskforge.DTO;
 
 public class TarefaDTO {
 
-    private int id;
+    private Long id;
     private String nome;
     private int prioridade;
     private boolean concluida;
 
-    public TarefaDTO(int id, String nome, int prioridade, boolean concluida) {
+    public TarefaDTO(Long id, String nome, int prioridade, boolean concluida) {
         this.id = id;
         this.nome = nome;
         this.prioridade = prioridade;
         this.concluida = concluida;
     }
 
-    public int getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Long id) {
         this.id = id;
     }
 

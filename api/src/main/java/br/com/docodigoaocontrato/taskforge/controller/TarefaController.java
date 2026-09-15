@@ -10,6 +10,6 @@ public class TarefaController {
 
     @GetMapping("/tarefas")
     public TarefaDTO listar() {
-        return new TarefaDTO(3,"Tarefa3", 1, false);
+        return new TarefaDTO(1L,"Minha primeira Tarefa", 1, false);
     }
 }
