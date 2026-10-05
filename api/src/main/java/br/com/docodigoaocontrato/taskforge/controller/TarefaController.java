@@ -15,8 +15,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.docodigoaocontrato.taskforge.DTO.TarefaDTO;
-import br.com.docodigoaocontrato.taskforge.model.Tarefa;
-import br.com.docodigoaocontrato.taskforge.repository.TarefaRepository;
 import br.com.docodigoaocontrato.taskforge.service.TarefaService;
 
 @RestController
